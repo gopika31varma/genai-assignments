@@ -1,0 +1,2 @@
+1. https://jalammar.github.io/illustrated-transformer/?utm_source=chatgpt.com
+2. https://www.codecademy.com/article/transformer-architecture-self-attention-mechanism?utm_source=chatgpt.com
